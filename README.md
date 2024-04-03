@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **seitvalieva/seitvalieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  # About me
+  # #  # About me
 
 - 🌱 I’m currently learning Web and mobile web development 
 - 💬 I'm speaking *English *Français *Ukrainian *Russian
