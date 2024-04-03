@@ -16,11 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 🌱 I’m currently learning web and mobile web development 
--:speech_balloon: I'm speaking 
-:flag_england: English 
-:flag_france: Français 
-:flag_ukraine: Ukrainian 
-:flag_russia: Russian
+💬 I'm speaking 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English 🇫🇷 Français 🇺🇦 Ukrainian 🇷🇺 Russian 
 
 
