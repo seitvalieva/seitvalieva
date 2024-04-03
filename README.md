@@ -5,7 +5,6 @@
 
 
 Here are some ideas to get you started:
--->
 
 - 🔭 I’m currently working on web and mobile web development 
 - 🌱 I’m currently learning JavaScript
@@ -16,4 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+🌱 I’m currently learning web and mobile web development 
+- :speech_balloon: I'm speaking :flag_england: English :flag_france: Français :flag_ukraine: Ukrainian :flag_russia: Russian
+
 
