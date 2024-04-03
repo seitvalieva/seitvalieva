@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning web and mobile web development 
-💬 I'm speaking 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English 🇫🇷 Français 🇺🇦 Ukrainian 🇷🇺 Russian 
+- 🌱 I’m currently learning web and mobile web development 
+- 💬 I'm speaking 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English 🇫🇷 Français 🇺🇦 Ukrainian 🇷🇺 Russian 
 
 
