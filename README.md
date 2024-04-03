@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
  <img alt="SUN MOON" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
+-->
 
 ### ✨ About me
 
@@ -29,6 +31,12 @@ Here are some ideas to get you started:
 - 💬 I'm speaking ▪ English ▪ Français ▪ Ukrainian ▪ Russian
 
 ### 💻 Tech Stack
+<p>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/BadgeText-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+ 
+</p>
 
   
 
