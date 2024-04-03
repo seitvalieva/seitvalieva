@@ -42,6 +42,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=white&style=flat" />
  -->
+ <img src="https://img.shields.io/badge/VS-Code-007ACC?logo=Visual-Studio-Code&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/Chrome-DevTools-4285F4?logo=Google-Chrome&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/Android-DebugBridge-34A853?logo=Android&logoColor=white&style=flat" />
