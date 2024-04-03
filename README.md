@@ -37,6 +37,8 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/Trello-0052CC?logo=Trello&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=flat" />
  
 </p>
 
