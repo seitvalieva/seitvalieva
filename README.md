@@ -39,8 +39,16 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/Trello-0052CC?logo=Trello&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=flat" />
- 
+ <img src="https://img.shields.io/badge/Chrome-DevTools-4285F4?logo=Google-Chrome&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/Android-DebugBridge-34A853?logo=Android&logoColor=white&style=flat" />
+
 </p>
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername &layout=compact />
+-->
 
   
 
