@@ -44,6 +44,8 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Chrome-DevTools-4285F4?logo=Google-Chrome&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/Android-DebugBridge-34A853?logo=Android&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/Trello-0052CC?logo=Trello&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/Fiddler-34A853?logo=SimpleIconName&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/Charles-F3F5F5?logo=Charles&logoColor=black&style=flat" />
 
 </p>
 
