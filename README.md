@@ -3,7 +3,9 @@
 <!--
 **seitvalieva/seitvalieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on web and mobile web development 
 - 🌱 I’m currently learning JavaScript
@@ -14,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
