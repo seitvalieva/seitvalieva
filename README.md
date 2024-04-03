@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web and mobile web development 
 - 💬 I'm speaking ▪ English ▪ Français ▪ Ukrainian ▪ Russian
 
-### 💻 Tech Stack
+### 💻 Have worked in
 <p>
  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=flat" />
