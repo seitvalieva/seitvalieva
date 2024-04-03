@@ -35,18 +35,19 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat" />
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat" />
- <img src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=flat" />
+ <!--
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=white&style=flat" />
+ -->
  <img src="https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/Chrome-DevTools-4285F4?logo=Google-Chrome&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/Android-DebugBridge-34A853?logo=Android&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/Trello-0052CC?logo=Trello&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/Fiddler-34A853?logo=SimpleIconName&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/Charles-F3F5F5?logo=Charles&logoColor=black&style=flat" />
-
 </p>
 
 <!--
